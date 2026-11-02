@@ -26,3 +26,18 @@ operating system - smart hospital
 - Task 06: File copy program (c)
 - Task 07: Process control program (c)
 
+## Compilation
+- Task 06: gcc -Wall -Wextra copy.c -o copy
+- Task 07: gcc -Wall -Wextra process.c -o process
+
+## Execution
+Task 06:./copy
+Task 07:./process
+
+## Environment
+-operating system:kali linux
+-Architecture:64-bit
+-compilrer:GCC 13.3.0
+-programming language:c 
+-code editor:vs code
+-virtualisation:vmware workstation
