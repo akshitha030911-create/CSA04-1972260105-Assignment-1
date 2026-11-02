@@ -21,3 +21,8 @@ operating system - smart hospital
 - Task 10: measurement
 - Task 11: final recommendation
 - Task 12: design challenge
+
+## Programs
+- Task 06: File copy program (c)
+- Task 07: Process control program (c)
+
